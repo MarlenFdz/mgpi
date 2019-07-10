@@ -20,7 +20,6 @@ public class Ing_sw_2019 {
         for (int i = 0; i <= 12; i++) {
             System.out.print("12 * " + i + " = " + 12 * i + "\n");
         }
-
     }
 
 }
