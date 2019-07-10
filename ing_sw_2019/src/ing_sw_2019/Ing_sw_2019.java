@@ -20,6 +20,12 @@ public class Ing_sw_2019 {
         for (int i = 0; i <= 12; i++) {
             System.out.print("12 * " + i + " = " + 12 * i + "\n");
         }
+        
+        System.out.println("Tabla de multiplicar del 13:");
+
+        for (int i = 0; i <= 12; i++) {
+            System.out.print("13 * " + i + " = " + 13 * i + "\n");
+        }
     }
 
 }
