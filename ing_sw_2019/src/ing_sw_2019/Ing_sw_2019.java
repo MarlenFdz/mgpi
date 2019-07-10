@@ -16,6 +16,7 @@ public class Ing_sw_2019 {
      */
     public static void main(String[] args) {
         System.out.println("Tabla de multiplicar del 12:");
+        System.out.println.x("Revisión Mauricio Rojas C.");
 
         for (int i = 0; i <= 12; i++) {
             System.out.print("12 * " + i + " = " + 12 * i + "\n");
