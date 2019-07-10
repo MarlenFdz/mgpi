@@ -23,8 +23,8 @@ public class Ing_sw_2019 {
         
         System.out.println("Tabla de multiplicar del 13:");
 
-        for (int i = 0; i <= 12; i++) {
-            System.out.print("13 * " + i + " = " + 13 * i + "\n");
+        for (int i = 0; i <= 12; i++b) {
+            System.out.print("13 * " + i + " = " + 13 * i + "\n");mj
         }
     }
 
